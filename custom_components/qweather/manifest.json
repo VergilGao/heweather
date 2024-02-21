@@ -1,0 +1,9 @@
+{
+  "domain": "qweather",
+  "name": "和风天气",
+  "integration_type": "hub",
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "loggers": ["qweather"],
+  "version": "0.1.0"
+}

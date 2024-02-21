@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "location": "qweather location id",
+          "key": "qweather api key"
+        },
+        "data_description": {
+          "location": "see https://dev.qweather.com/docs/resource/glossary/#locationid",
+          "key": "see https://dev.qweather.com/docs/resource/glossary/#key"
+        }
+      }
+    }
+  }
+}
